@@ -42,12 +42,10 @@ LangGraph를 이용해 **질문 분석 → 운동 추천 → 답변 생성** 흐
 아래는 LangGraph로 구성한 전체 흐름입니다.
 
 <p align="center">
-  <img src="images/graph.png" alt="LangGraph workflow" width="260"/>
+<img width="108" height="432" alt="6d71a780-d514-46cc-81ed-fa3f278ed3fd" src="https://github.com/user-attachments/assets/0c573c40-6c40-4f32-a121-5133cb129176" />
+
 </p>
 
-```text
-
-<img width="127" height="533" alt="image" src="https://github.com/user-attachments/assets/bc49e66f-700c-45c9-ac4e-89044885a43e" />
 
 | 단계       | 결과                                          |
 | -------- | ------------------------------------------- |
@@ -55,7 +53,9 @@ LangGraph를 이용해 **질문 분석 → 운동 추천 → 답변 생성** 흐
 | 추출된 상태   | `체력, 살 찌는 상태`                               |
 | 추천 운동 후보 | `걷기, 가벼운 스트레칭, 요가 동작, 수영, 자전거 타기, 계단 오르내리기` |
 
-<img width="692" height="247" alt="image" src="https://github.com/user-attachments/assets/16408f0a-b629-4d64-a3b8-c14c25a9a156" />
+
+<img width="638" height="239" alt="image" src="https://github.com/user-attachments/assets/388b8776-fffd-4edc-9a1c-0fb02b6abbc2" />
+
 
 ### 최종 응답
 
